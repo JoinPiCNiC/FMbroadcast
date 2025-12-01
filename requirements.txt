@@ -1,0 +1,9 @@
+pip3 install -r requirements.txt
+API_TOKEN — Picnic Bearer token
+
+GROUP_ID — The chat group ID to broadcast
+
+Set them as environment variables:
+
+export PICNIC_API_TOKEN="your_token_here"
+export PICNIC_GROUP_ID="your_group_id"
